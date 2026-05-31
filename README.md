@@ -4,6 +4,8 @@ A full-stack web-based Training Institute Management System developed using PHP,
 
 The system includes both an Admin Panel for managing institute operations and a Public Website Interface for displaying courses, institute information, and student interaction features.
 
+🌐 Live Demo:
+https://skillforgeinstitute.42web.io
 ---
 
 ## Features
